@@ -6,7 +6,7 @@ gradle clean test -DDeviceHost=browserstack
 ```bash
 gradle clean test -DDeviceHost=selenoid
 ```
-### Run tests in Emulator(set device name in properties)
+### Run tests in Emulator (set device name in properties)
 ```bash
 gradle clean test -DDeviceHost=emulation
 ```
